@@ -1,3 +1,4 @@
+// TEST COMMENT
 const fs = require("fs");
 const PNG = require("pngjs").PNG;
 const path = require("path");
